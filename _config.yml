@@ -19,7 +19,7 @@ name                    : &name "Stephan de Hoop"
 description             : &description "Providing information on the current state of DARTS"
 email                   : s.dehoop-1@tudelft.nl
 baseurl                 : "" # the subpath of your site, e.g. /blog
-url                     : "" # the base hostname & protocol for your site, e.g. http://example.com
+url                     : "https://makelikepaperrr.github.io/darts_web_test/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username        : &uname1 "makeLikePaperrr"
 github_username         :  *uname1
 
