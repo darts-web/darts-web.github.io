@@ -36,3 +36,5 @@ Some general links: <br>
 
 [TUD]: https://www.tudelft.nl
 [link_to_repo]: https://github.darts-web.io/darts-web
+
+{{ content }}
