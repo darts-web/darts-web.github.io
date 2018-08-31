@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Info
 permalink: /darts-web/info/
 ---
