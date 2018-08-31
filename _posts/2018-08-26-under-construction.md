@@ -8,3 +8,5 @@ permalink:  /:categories/:year/:month/:day/:title
 ---
 
 This website is currently under construction. It will serve as a communication platform on the current state of the Delft Advanced Research Terra Simulator (DARTS). 
+
+We are experiencing some layout issues on Microsoft Internet Explorer. Please use Google Chrome, Microsoft Edge or Firefox in order to display the layout properly. Thank you very much for your understanding.
