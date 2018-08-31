@@ -18,8 +18,8 @@ title_separator         : "|"
 name                    : &name "Stephan de Hoop"
 description             : &description "Providing information on the current state of DARTS"
 email                   : s.dehoop-1@tudelft.nl
-baseurl                 : "/dars-web" # the subpath of your site, e.g. /blog
-url                     : "https://darts-web.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl                 : "" # the subpath of your site, e.g. /blog
+url                     : "https://darts-web.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username        : &uname1 "makeLikePaperrr"
 github_username         :  *uname1
 
