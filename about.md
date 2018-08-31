@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /darts-web/about/
 ---
 
 Text here for the introduction to the DARTS team and research group? Maybe a nice banner or figure with group photo?
