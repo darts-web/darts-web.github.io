@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Info
-permalink: /info/
+permalink: /darts-web/info/
 ---
 <html>
 
