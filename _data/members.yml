@@ -1,0 +1,55 @@
+# Members
+
+- name: Denis Voskov
+  role: Project Leader / Thermal-Compositional Capabilities
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Petroleum%20Engineering/Staff/picture%20personal%20page%20Voskov%2C%20Denis.jpg
+  github: darts-web
+  bio: ------------Your bio here------------
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/academic-staff/dr-dv-denis-voskov/
+  project_link: /projects/#Denis
+  visible: true
+   
+- name: Mark Khait
+  role: Main Developer of Simulation Engine and Infrastructure
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/RTEmagicC_Mark_Khait_01.jpg%5B1%5D.jpg
+  github: darts-web
+  bio: ------------Your bio here------------
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/phd-students/m-mark-khait-msc/
+  project_link: /projects/#Mark
+  visible: true
+  
+- name: Stephan de Hoop
+  role: Chemical Reactions and Discretization Module
+  img: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/f/csm_Picture%20Hoop%2C%20de_206d901be6.jpg
+  github: darts-web
+  bio: ------------Your bio here------------
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/applied-geology/staff/phd-students/s-stephan-de-hoop-msc/
+  project_link: /projects/#Stephan
+  visible: true
+  
+- name: Yang Wang
+  role: Geothermal Capabilities
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Yang_Wang%5B1%5D.jpg
+  github: darts-web
+  bio: ------------Your bio here------------
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/phd-students/y-yang-wang-msc/
+  project_link: /projects/#Yang
+  visible: true
+  
+- name: Xiaocong Lyu
+  role: Black-Oil Capabilities
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Picture%20Lyu%2C%20Xiaocong.jpg
+  github: darts-web
+  bio: ------------Your bio here------------
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/staff/phd-students/x-lyu/
+  project_link: /projects/#Xiaocong
+  visible: true
+  
+- name: Kiarash Mansour Pour
+  role: Multi-Segmented Well
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Petroleum%20Engineering/Staff/picture%20Mansour%20Pour%2C%20Kiarash.jpg
+  github: darts-web
+  bio: ------------Your bio here------------
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/phd-students/mansour-pour-k/
+  project_link: /projects/#Kiarash
+  visible: true

@@ -29,11 +29,21 @@ plugins:
   - jekyll-feed
   
 defaults:
-  - scope: 
+  - 
+    scope: 
       path: ""
       type: posts
     values:
       layout: default
+      title: ""
+      header-img: /assets/img/group_photo_workshop.jpg 
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      header-img: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
