@@ -8,7 +8,11 @@ author: Stephan de Hoop
 
 <head>
   <style>
-    h2		{color: rgb(44,196,251);display: inline; font-weight: bold;}
+    h2  {
+		color: rgb(44,196,251);
+		display: inline; 
+		font-weight: bold;
+		}
   </style>
 </head>
 
@@ -30,7 +34,11 @@ author: Stephan de Hoop
 
 <h2><a id="Stephan">Stephan: </a></h2>
 <div class="sub-section" style="padding-left: 15px;">
-	<p text-align="justify">Your project description here.</p>
+	<p text-align="justify">My current work involving DARTS consists of ...</p>
+	<p text-align="justify"><img src="{{ site.baseurl }}/assets/img/project_photos/example_gif.gif">
+	<br>
+	<em>Dissolution patterns.</em></p>
+	<p>My other acedemic interests lie in Uncertainty Quantification ...</p> 
 	<hr>
 </div>
 <br>
