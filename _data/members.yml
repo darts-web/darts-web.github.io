@@ -1,16 +1,16 @@
 # Members
 
 - name: Denis Voskov
-  role: Project Leader / Thermal-Compositional Capabilities
+  role: Project leader / thermal-compositional capabilities
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Petroleum%20Engineering/Staff/picture%20personal%20page%20Voskov%2C%20Denis.jpg
   github: darts-web
-  bio: ------------Your bio here------------
+  bio: Dr. Voskov is an Associate Professor at TU Delft. He received his PhD degree in Applied Mathematics from Gubkin Russian University of Oil and Gas in 2002. Dr. Voskov former positions include senior researcher at Stanford University, founder and chief technology officer of Rock Flow Dynamics company, chief engineer at YUKOS EP company, and leading engineer-mathematician at the Institute for Problems in Mechanics within the Russian Academy of Sciences.
   url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/academic-staff/dr-dv-denis-voskov/
   project_link: /projects/#Denis
   visible: true
    
 - name: Mark Khait
-  role: Main Developer of Simulation Engine and Infrastructure
+  role: Main developer of simulation engine and infrastructure
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/RTEmagicC_Mark_Khait_01.jpg%5B1%5D.jpg
   github: darts-web
   bio: ------------Your bio here------------
@@ -19,7 +19,7 @@
   visible: true
   
 - name: Stephan de Hoop
-  role: Chemical Reactions and Discretization Module
+  role: Chemical reactions and discretization module
   img: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/f/csm_Picture%20Hoop%2C%20de_206d901be6.jpg
   github: darts-web
   bio: ------------Your bio here------------
@@ -28,7 +28,7 @@
   visible: true
   
 - name: Yang Wang
-  role: Geothermal Capabilities
+  role: Geothermal capabilities
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Yang_Wang%5B1%5D.jpg
   github: darts-web
   bio: ------------Your bio here------------
@@ -37,7 +37,7 @@
   visible: true
   
 - name: Xiaocong Lyu
-  role: Black-Oil Capabilities
+  role: Black-Oil capabilities
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Picture%20Lyu%2C%20Xiaocong.jpg
   github: darts-web
   bio: ------------Your bio here------------
@@ -46,7 +46,7 @@
   visible: true
   
 - name: Kiarash Mansour Pour
-  role: Multi-Segmented Well
+  role: Multi-segmented Well
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Petroleum%20Engineering/Staff/picture%20Mansour%20Pour%2C%20Kiarash.jpg
   github: darts-web
   bio: ------------Your bio here------------

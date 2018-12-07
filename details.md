@@ -14,7 +14,7 @@ inverse-img: true
 </head>
 
 <body>
-<h2>Technical details:</h2>
+<h2>Technical details</h2>
 <div class="TechDetails" style="padding-left: 15px;">
 	<p><h4>Core simulation capabilities: </h4> 
 	unstructured Two-Point Flux Approximation, Open MP and GPU shared memory parallel, Constraint Pressure Residual linear preconditioner, Multi-Segmented Wells and surface facilities.</p>
@@ -24,11 +24,12 @@ inverse-img: true
 
 	<p><h4>Structure: </h4>
 	Python-based pre-processing of space, time and physics discretization with C++ and CUDA core simulation capabilities:</p>
+	
 	<ul>
-	  <li><h4>DARTS</h4>-discretization;</li>
-	  <li><h4>DARTS</h4>-time;</li>
-	  <li><h4>DARTS</h4>-physics;</li>
-	  <li><h4>DARTS</h4>-engine.</li>
+	  <li><h4>DARTS</h4>-engine: main kernel for nonlinear solution of governing equation (C++ and CUDA);</li>
+	  <li><h4>DARTS</h4>-physics: main physical kernels for industrial applications (C++ and Python);</li>
+	  <li><h4>DARTS</h4>-models: Python-based capabilities for model pre-processing, running and postprocessing;</li>
+	  <li><h4>DARTS</h4>-opt: optimization and data assimilation Python-based software framework.</li>
 	</ul>
 </div>
 
@@ -36,8 +37,8 @@ inverse-img: true
 <div class="CurrFocus" style="padding-left: 15px;">
 	<p><h4>Forward simulation: </h4>detailed well and near-well modeling with chemical reactions;</p>
 	<p><h4>Data assimilation: </h4>geothermal projects, data-driven proxy models;</p>
-	<p><h4>Optimization: </h4>geothermal projects, CO2 EOR;</p>
-	<p><h4>Inversion of experiments: </h4>foam modeling, fractures with dissolution, gas-hydrates modeling.</p>
+	<p><h4>Optimization: </h4>geothermal projects, CO2 Enhanced Oil Recovery;</p>
+	<p><h4>Inversion: </h4>foam modeling, fractures with dissolution, gas-hydrates modeling.</p>
 </div>
 </body>
 </html>
