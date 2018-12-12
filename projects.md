@@ -42,11 +42,19 @@ author: Stephan de Hoop
 
 <h2><a id="Stephan">Thermal flow and transport with dissolution </a></h2>
 <div class="sub-section" style="padding-left: 15px;">
-	<p text-align="justify">My current work involving DARTS consists of ...</p>
-	<p text-align="justify"><img src="{{ site.baseurl }}/assets/img/project_photos/example_gif.gif">
+	<p text-align="justify">Increasing demand for geothermal energy in the Netherlands has led to the investigation of high enthalpy carbonate reservoirs, located in the Lower Carboniferous (Dinantian carbonates). Pilot projects have encountered heavily karstified reservoir intervals during the drilling process, resulting in unpredicted hazards. The origin of the karst has been interpreted as a combination of epigenic and hypogenic processes<sup>6</sup>. Predicting the spatial distribution of hypogenic caves and other discontinuity networks in the subsurface is currently in an under developed state, mainly due our inability to obtain images of the subsurface at sufficient resolution but also due to the high complexity of the system (interplay between chemical, mechanical, and flow processes).</p>
+	<p text-align="justify">This project mainly focusses on the development of a reactive transport module for DARTS, in particular on the implementation of the Element Based Formulation<sup>5<sup> and fully unstructured dicretization methods for (naturally) fractured reservoirs<7>.
+	<img src="{{ site.baseurl }}/assets/img/project_photos/example_gif.gif">
 	<br>
-	<em>Dissolution patterns.</em></p>
-	<p>My other acedemic interests lie in Uncertainty Quantification ...</p> 
+	<em>Preliminary results on dissolution patterns in carbonates, obtained with the Reactive Transport and unstructured discretization modules in DARTS.</em></p>
+	<p text-align="justify">The next steps of this research are on combining three methods: 1) large-scale high-resolution outcrop data, acquired with a Mobile Mapping System (handheld LiDAR); 2) small-scale laboratory experiments studying the interplay between dissolution of the fracture plane under mechanical stress; 3) integrating this in numerical models acquired with DARTS simulation framework. This will lead to improved predictions on the spatial distribution of karst and other discontinuity networks in the subsurface.
+	<img src="{{ site.baseurl }}/assets/img/project_photos/comparison_lidar_and_photos.png">
+	<br>
+	<em>Comparison between the High-Resolution LiDAR point cloud data set and color photographs (from inside the cave systems).</em></p>
+	<p text-align="justify">My other acedemic interests lie in Uncertainty Quantification, particularly in using coarse-scale models for fine-scale predictions.
+	<img src="{{ site.baseurl }}/assets/img/project_photos/uncertainty_trajectory.png">
+	<br>
+	<em>Taken from de Hoop et al. (2018)<sup>8</sup>. Here we have proposed a method to use coarse-scale models in the prediction of fine-scale response uncertainty.</em></p>
 	<hr>
 </div>
 <br>
@@ -112,6 +120,15 @@ author: Stephan de Hoop
 	  </li>
 	  <li> Kala, K., D. Voskov, 2018. Parameterization of element balance formulation in reactive compositional flow and transport, 16th European Conference on the Mathematics of Oil Recovery, ECMOR. 
 		<a href = "https://doi.org/10.3997/2214-4609.201802113" target="_blank">doi:10.3997/2214-4609.201802113</a>
+	  </li>
+	  <li> Reijmer, J. J., Johan, H., Jaarsma, B., & Boots, R. (2017). Seismic stratigraphy of dinantian carbonatesin the southern netherlands and northern belgium.Netherlands Journal of Geosciences,96(4),353–379. 
+		<a href = "https://doi.org/10.1017/njg.2017.33" target="_blank">doi.org/10.1017/njg.2017.33</a>
+	  </li>
+	  <li> Karimi-Fard, M., Durlofsky, L. J., & Aziz, K. (2003, January). An efficient discrete fracture model applicable for general purpose reservoir simulators. In SPE Reservoir Simulation Symposium. Society of Petroleum Engineers. 
+		<a href = "https://doi.org/10.2118/79699-MS" target="_blank">https://doi.org/10.2118/79699-MS</a>
+	  </li>
+	  <li> de Hoop, S., Voskov, D., Vossepoel, F., & Jung, A. (2018). Quantification of coarsening effect on response uncertainty in reservoir simulation. In Ecmor xvi-16th european conference on the mathematics ofoil recovery. 
+		<a href = "https://10.3997/2214-4609.201802223" target="_blank">10.3997/2214-4609.201802223</a>
 	  </li>
 	</ol>
 </h5>
