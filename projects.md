@@ -43,16 +43,16 @@ author: Stephan de Hoop
 <h2><a id="Stephan">Thermal flow and transport with dissolution </a></h2>
 <div class="sub-section" style="padding-left: 15px;">
 	<p text-align="justify">Increasing demand for geothermal energy in the Netherlands has led to the investigation of high enthalpy carbonate reservoirs, located in the Lower Carboniferous (Dinantian carbonates). Pilot projects have encountered heavily karstified reservoir intervals during the drilling process, resulting in unpredicted hazards. The origin of the karst has been interpreted as a combination of epigenic and hypogenic processes<sup>6</sup>. Predicting the spatial distribution of hypogenic caves and other discontinuity networks in the subsurface is currently in an under developed state, mainly due our inability to obtain images of the subsurface at sufficient resolution but also due to the high complexity of the system (interplay between chemical, mechanical, and flow processes).</p>
-	<p text-align="justify">This project mainly focusses on the development of a reactive transport module for DARTS, in particular on the implementation of the Element Based Formulation<sup>5<sup> and fully unstructured dicretization methods for (naturally) fractured reservoirs<7>.
-	<img src="{{ site.baseurl }}/assets/img/project_photos/example_gif.gif">
+	<p text-align="justify">This project mainly focusses on the development of a reactive transport module for DARTS, in particular on the implementation of the Element Based Formulation<sup>5</sup> and fully unstructured dicretization methods for (naturally) fractured reservoirs<sup>7</sup>.
+	<img src="{{ site.baseurl }}/assets/img/project_photos/example_gif.gif" width="75%" class="center">
 	<br>
 	<em>Preliminary results on dissolution patterns in carbonates, obtained with the Reactive Transport and unstructured discretization modules in DARTS.</em></p>
 	<p text-align="justify">The next steps of this research are on combining three methods: 1) large-scale high-resolution outcrop data, acquired with a Mobile Mapping System (handheld LiDAR); 2) small-scale laboratory experiments studying the interplay between dissolution of the fracture plane under mechanical stress; 3) integrating this in numerical models acquired with DARTS simulation framework. This will lead to improved predictions on the spatial distribution of karst and other discontinuity networks in the subsurface.
-	<img src="{{ site.baseurl }}/assets/img/project_photos/comparison_lidar_and_photos.png">
+	<img src="{{ site.baseurl }}/assets/img/project_photos/comparison_lidar_and_photos.png" width="75%" class="center">
 	<br>
 	<em>Comparison between the High-Resolution LiDAR point cloud data set and color photographs (from inside the cave systems).</em></p>
 	<p text-align="justify">My other acedemic interests lie in Uncertainty Quantification, particularly in using coarse-scale models for fine-scale predictions.
-	<img src="{{ site.baseurl }}/assets/img/project_photos/uncertainty_trajectory.png">
+	<img src="{{ site.baseurl }}/assets/img/project_photos/uncertainty_trajectory.png" width="75%" class="center">
 	<br>
 	<em>Taken from de Hoop et al. (2018)<sup>8</sup>. Here we have proposed a method to use coarse-scale models in the prediction of fine-scale response uncertainty.</em></p>
 	<hr>
