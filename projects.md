@@ -13,6 +13,12 @@ author: Stephan de Hoop
 		display: inline; 
 		font-weight: bold;
 		}
+	.center {
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 85%;
+		}
   </style>
 </head>
 
