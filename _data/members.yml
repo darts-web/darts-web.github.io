@@ -13,7 +13,7 @@
   role: Main developer of simulation engine and infrastructure
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/RTEmagicC_Mark_Khait_01.jpg%5B1%5D.jpg
   github: darts-web
-  bio: ------------Your bio here------------
+  bio: Mark Khait is a PhD student in Petroleum Engineering at Delft University of Technology. His current research interests include reservoir simulation, nonlinear solvers, parallel computations, many-core architectures and deep learning. Previously, Mark worked for eight years as a Senior Researcher at Rosneft Oil Company. He received an MSc in Information Security from Ufa State Aviation Technical University.
   url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/phd-students/m-mark-khait-msc/
   project_link: /projects/#Mark
   visible: true
@@ -31,7 +31,7 @@
   role: Geothermal capabilities
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Yang_Wang%5B1%5D.jpg
   github: darts-web
-  bio: ------------Your bio here------------
+  bio: Yang Wang is a Ph.D. candidate at TU Delft. He received his bachelor and master degree in Petroleum Engineering from China University of Petroleum in 2013 and 2016 respectively. After that, he started his Ph.D. journey at TU Delft. His research interests include nonlinear flow and reactive transport in high-enthalpy geothermal systems.
   url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/phd-students/y-yang-wang-msc/
   project_link: /projects/#Yang
   visible: true
@@ -40,7 +40,7 @@
   role: Black-Oil capabilities
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Picture%20Lyu%2C%20Xiaocong.jpg
   github: darts-web
-  bio: ------------Your bio here------------
+  bio: Xiaocong Lyu is a PhD candidate at TU Delft. He received his master degree in Petroleum Engineering from China University of Petroleum(Beijing) in 2017. Now he works on numerical simulation of foam flow in porous media.
   url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/staff/phd-students/x-lyu/
   project_link: /projects/#Xiaocong
   visible: true
@@ -49,7 +49,7 @@
   role: Multi-segmented Well
   img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Petroleum%20Engineering/Staff/picture%20Mansour%20Pour%2C%20Kiarash.jpg
   github: darts-web
-  bio: ------------Your bio here------------
+  bio: Kiarash Mansour pour is currently a PhD candidate in Delft University of technology. He received his master degree in Energy Engineering from Politecnico di Milano. His main research project is about the numerical simulation of the Geothermal well.
   url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/petroleum-engineering/staff/phd-students/mansour-pour-k/
   project_link: /projects/#Kiarash
   visible: true

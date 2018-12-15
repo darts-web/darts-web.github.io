@@ -45,7 +45,6 @@ inverse-img: true
 
 Some general links: <br>
 [TU Delft website][TUD] <br>
-[Our GitHub repository][link_to_repo] <br>
 
 [TUD]: https://www.tudelft.nl
 [link_to_repo]: https://github.darts-web.io/darts-web
