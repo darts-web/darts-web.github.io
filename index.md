@@ -3,18 +3,57 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-header-img: /assets/img/group_photo_workshop.jpg
-inverse-img: false
+header-img: /assets/img/logo_wider.png
+inverse-img: true
 ---
 <html>
 
 <head>
   <style>
     h3		{color: rgb(44,196,251);display: inline; font-weight: bold;}
+.TitleBanner {
+  color: white; // White text...
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.75); // ...against a dark background
+
+  background-size: cover;
+  background-position: center;
+  background-image: url({{ site.base_url }}/assets/img/logo.png);
+}
+
+.TitleBanner--inverse {
+  color: black; // Here we have dark text
+  box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.75); // ...against a light background
+	
+  background-size: cover;
+  background-position: center;
+  background-image: url({{ site.base_url }}/assets/img/logo.png);
+}
+
+.testStyle{
+	width: 70%;
+	height: 45vh;
+	
+	position: relative;
+	top: 0px;
+	margin: 0 auto;
+	padding: 0px;
+	overflow: visible;
+	
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: cover;
+	
+	color: rgb(0,0,0);
+}
   </style>
 </head>
 
 <body>
+	<header class="testStyle" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ page.header-img }}{% endif %}');">
+
+	</header>
+
 	<div class="MainBody">
 		<h1 class="page-title">What is DARTS?</h1>
 		<div class="Philosophy" style="padding-left: 15px;">
